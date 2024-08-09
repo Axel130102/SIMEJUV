@@ -13,6 +13,10 @@
   padding: 0;
 }
 
+.inner-header h1{
+  margin-top: 100px;
+}
+
 .flex { 
   display: flex;
   justify-content: center;
